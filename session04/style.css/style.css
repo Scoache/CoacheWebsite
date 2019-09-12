@@ -1,0 +1,42 @@
+
+body{
+    background-color: aqua;
+
+}
+p {
+font-family: Arial, Helvetica, sans-serif;
+color: red;
+}
+h1{
+
+    color: purple;
+    font-size: 100px;
+
+}
+div{
+    background-color: white;
+    display: inline;
+
+}
+#first-div{
+
+    font-size: 50px;
+    color: white;
+    background-color: darkslateblue;
+    display: inline;
+    border-radius: 200px;
+}
+#millenials-thing{
+    margin-top: 20px;
+    border-radius: 20px;
+    display: inline;
+    font-size: 50px;
+    transition: 100ms;
+    cursor:crosshair;
+    position:absolute;
+    top: 80px;
+    right: 
+}
+#millenials-thing:hover{
+    background-color:red;
+}
